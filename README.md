@@ -2,8 +2,15 @@
  - Name: Aworeni Abiodun
  - Date: June 17th, 2022 - 22:00 GMT+1
 
-
+## Architecture Diagram
 ![Architecture Diagram](Udacity%20project%202%20Architecture%20diagram.png)
+
+## Cloudformation_Output_LoadBalancer-DNS
+![Cloudformation_Output_LoadBalancer](Cloudformation_Output_LoadBalancer-DNS.jpg)
+
+## Web page screenshoot
+![working webpage](working%20webpage.jpg)
+
 
 ## Create Infrastructure 
 ```
